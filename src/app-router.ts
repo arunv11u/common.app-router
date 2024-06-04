@@ -15,4 +15,8 @@ class AppRouterSingleton {
 	}
 }
 
-export const appRouter = AppRouterSingleton.getInstance();
+const appRouter = AppRouterSingleton.getInstance();
+
+export {
+	appRouter
+};
