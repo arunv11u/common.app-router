@@ -1,6 +1,6 @@
 # @arunvaradharajalu/common.app-router
 
-This package contains an express application singleton router.
+This package contains a singleton router for an express application.
 
 ## Installation
 
@@ -12,9 +12,9 @@ npm install @arunvaradharajalu/common.app-router
 
 ## Usage
 
-```typescript
 Here is an example demonstrating how to use the singleton router in your Express application:
 
+```typescript
 import express from 'express';
 import { appRouter } from '@arunvaradharajalu/common.app-router';
 
