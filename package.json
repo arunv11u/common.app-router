@@ -1,6 +1,6 @@
 {
 	"name": "@arunvaradharajalu/common.app-router",
-	"version": "1.2.0",
+	"version": "1.2.1",
 	"description": "This package contains express application singleton router",
 	"main": "./build/index.js",
 	"types": "./build/index.d.ts",
