@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/%40arunvaradharajalu%2Fcommon.app-router.svg)](https://badge.fury.io/js/%40arunvaradharajalu%2Fcommon.app-router)
 [![GitHub issues](https://img.shields.io/github/issues/arunv11u/common.app-router)](https://github.com/arunv11u/common.app-router/issues)
-[![GitHub license](https://img.shields.io/github/license/arunv11u/common.app-router)](https://github.com/arunv11u/common.app-router/blob/master/LICENSE.txt)
+[![GitHub license](https://img.shields.io/github/license/arunv11u/common.app-router)](https://github.com/arunv11u/common.app-router/blob/master/LICENSE)
 
 This package contains a singleton router for an express application.
 
